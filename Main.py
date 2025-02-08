@@ -28,4 +28,4 @@ with gr.Blocks(theme = Theme) as ui:
         additional_inputs = [LLM]
     )
 #launch the website locally. share = True will host the website locally for 72 hours
-ui.launch(inbrowser = True,share = False)
+ui.launch(inbrowser = True,share = True)
