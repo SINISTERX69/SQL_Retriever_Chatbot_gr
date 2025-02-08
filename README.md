@@ -2,6 +2,8 @@
 
 SQL Data Retriever is a chat-based interface designed to interact with a local `SQLite` database using natural language queries. It provides a way for users to fetch data from a company database by simply typing queries in conversational language. The system translates these queries into SQL `SELECT` statements and retrieves the relevant data.
 
+This project can be further modified to integrate it with a MySQL data for real-world applications.
+
 ## Features
 
 - **Natural Language Interface**: Allows users to input queries in natural language.
